@@ -5,3 +5,7 @@
 Estou tentando aprender sobre branches
 
 ESSE TEXO É REMOTO
+
+outro git stash
+outro git stash
+outro git stash

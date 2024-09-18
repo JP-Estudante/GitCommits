@@ -4,4 +4,4 @@
 
 Estou tentando aprender sobre branches
 
-REMOTO
+ESSE TEXO É REMOTO
